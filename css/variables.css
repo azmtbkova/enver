@@ -1,0 +1,11 @@
+:root {
+  /* color:  */
+  --secondary-color: rgba(255, 255, 255, 0.7);
+  --primary-color: #5454d4;
+  /* font-size:  */
+  --main-size: 20px;
+  --section-title-size: 60px;
+
+  /* Fonts */
+  --headers-family: "Open Sans", sans-serif;
+}
